@@ -1,0 +1,6 @@
+node_modules/
+.cache/
+*.env
+comments.txt
+dev-data/
+public/*.html
